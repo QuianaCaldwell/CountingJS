@@ -1,0 +1,89 @@
+.intro{
+    background-color: #F9A6C2;
+    background-size: cover;
+    height: 300px;
+    padding-top: 20px;
+    border-style: double;
+    border-color: white;
+}
+
+.hello{
+    margin-left: 40%;
+    color: white;
+    font-family: Verdana;
+    font-size: 50px;
+}
+
+.lc{
+    margin-left: 40%;
+    color: white;
+    font-family: Verdana;
+}
+
+.number{
+    background-color: #F9A6C2 ;
+    background-size: cover;
+    height: 500%;
+    border-style: none;
+    padding-top: 20px;
+    
+}
+
+.enter{
+    color: white;
+    font-weight: lighter;
+    font-family: verdana;
+    margin-top: 30px;
+    
+
+}
+
+.numberbutton{
+    margin: none;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: bolder;
+    color: grey;
+
+    
+}
+
+.two{
+    background-color: #F9A6C2 ;
+    background-size: cover;
+    height: 500%;
+    border-style: none;
+    padding-top: 20px;
+}
+
+.entertwo{
+    color: white;
+    font-weight: lighter;
+    font-family: verdana;
+    margin-top: 30px;
+}
+
+.numberbuttontwo{
+    margin: none;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: bolder;
+    color: grey;
+
+}
+.end{
+    background-color: #F9A6C2 ;
+    background-size: cover;
+    height: 500%;
+    border-style: none;
+    padding-top: 20px;
+}
+
+.thanku{
+    margin-left: 50%;
+    color: white;
+    font-family: Verdana;
+    font-size: 50px;
+}
